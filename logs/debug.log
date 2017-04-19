@@ -1,0 +1,5 @@
+2017-04-17 17:55:14,095 [       HelloExample.java:main:20] - This is debug : mkyong
+2017-04-17 17:55:14,100 [       HelloExample.java:main:24] - This is info : mkyong
+2017-04-17 17:55:14,100 [       HelloExample.java:main:27] - This is warn : mkyong
+2017-04-17 17:55:14,100 [       HelloExample.java:main:28] - This is error : mkyong
+2017-04-17 17:55:14,101 [       HelloExample.java:main:29] - This is fatal : mkyong

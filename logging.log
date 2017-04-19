@@ -1,0 +1,7 @@
+2017-04-18 14:22:44 ERROR Phanso:32 - Error number format
+2017-04-18 14:22:44 DEBUG HelloExample:32 - This is debug : Tran Van Linh 2
+2017-04-18 14:22:44 INFO  HelloExample:36 - This is info : Tran Van Linh 2
+2017-04-18 14:22:44 WARN  HelloExample:39 - This is warn : Tran Van Linh 2
+2017-04-18 14:22:44 ERROR HelloExample:40 - This is error : Tran Van Linh 2
+2017-04-18 14:22:44 FATAL HelloExample:41 - This is fatal : Tran Van Linh 2
+2017-04-18 14:22:52 ERROR HelloExample:25 - Error not is number!
